@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\028 Educate\Code Solutions\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\user\Desktop\028 Educate\Code Solutions\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\028 Educate\Code Solutions\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\user\Desktop\028 Educate\Code Solutions\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\user\Desktop\028 Educate\Code Solutions\Interfaces\obj\Debug\Interfaces.pdb
